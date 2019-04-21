@@ -25,7 +25,7 @@ Windows10でcondaで環境設定を行い、ローカル環境で動作確認で
 ■実行方法
 (1)Cloneする
 (2)本番環境の場合は
-・mysite/settings.pyのALLOWED_HOSTSを設定
+・mybook/settings.pyのALLOWED_HOSTSを設定
 (3)Djangoの設定
 python manage.py makemigrations cms
 python manage.py migrate
